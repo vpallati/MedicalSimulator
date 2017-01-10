@@ -1,0 +1,1048 @@
+fileFormatVersion: 2
+guid: da324c8c22313f140b4cdd40d85c2308
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hospital_zpsdc84223d_0
+    21300002: Hospital_zpsdc84223d_1
+    21300004: Hospital_zpsdc84223d_2
+    21300006: Hospital_zpsdc84223d_3
+    21300008: Hospital_zpsdc84223d_4
+    21300010: Hospital_zpsdc84223d_5
+    21300012: Hospital_zpsdc84223d_6
+    21300014: Hospital_zpsdc84223d_7
+    21300016: Hospital_zpsdc84223d_8
+    21300018: Hospital_zpsdc84223d_9
+    21300020: Hospital_zpsdc84223d_10
+    21300022: Hospital_zpsdc84223d_11
+    21300024: Hospital_zpsdc84223d_12
+    21300026: Hospital_zpsdc84223d_13
+    21300028: Hospital_zpsdc84223d_14
+    21300030: Hospital_zpsdc84223d_15
+    21300032: Hospital_zpsdc84223d_16
+    21300034: Hospital_zpsdc84223d_17
+    21300036: Hospital_zpsdc84223d_18
+    21300038: Hospital_zpsdc84223d_19
+    21300040: Hospital_zpsdc84223d_20
+    21300042: Hospital_zpsdc84223d_21
+    21300044: Hospital_zpsdc84223d_22
+    21300046: Hospital_zpsdc84223d_23
+    21300048: Hospital_zpsdc84223d_24
+    21300050: Hospital_zpsdc84223d_25
+    21300052: Hospital_zpsdc84223d_26
+    21300054: Hospital_zpsdc84223d_27
+    21300056: Hospital_zpsdc84223d_28
+    21300058: Hospital_zpsdc84223d_29
+    21300060: Hospital_zpsdc84223d_30
+    21300062: Hospital_zpsdc84223d_31
+    21300064: Hospital_zpsdc84223d_32
+    21300066: Hospital_zpsdc84223d_33
+    21300068: Hospital_zpsdc84223d_34
+    21300070: Hospital_zpsdc84223d_35
+    21300072: Hospital_zpsdc84223d_36
+    21300074: Hospital_zpsdc84223d_37
+    21300076: Hospital_zpsdc84223d_38
+    21300078: Hospital_zpsdc84223d_39
+    21300080: Hospital_zpsdc84223d_40
+    21300082: Hospital_zpsdc84223d_41
+    21300084: Hospital_zpsdc84223d_42
+    21300086: Hospital_zpsdc84223d_43
+    21300088: Hospital_zpsdc84223d_44
+    21300090: Hospital_zpsdc84223d_45
+    21300092: Hospital_zpsdc84223d_46
+    21300094: Hospital_zpsdc84223d_47
+    21300096: Hospital_zpsdc84223d_48
+    21300098: Hospital_zpsdc84223d_49
+    21300100: Hospital_zpsdc84223d_50
+    21300102: Hospital_zpsdc84223d_51
+    21300104: Hospital_zpsdc84223d_52
+    21300106: Hospital_zpsdc84223d_53
+    21300108: Hospital_zpsdc84223d_54
+    21300110: Hospital_zpsdc84223d_55
+    21300112: Hospital_zpsdc84223d_56
+    21300114: Hospital_zpsdc84223d_57
+    21300116: Hospital_zpsdc84223d_58
+    21300118: Hospital_zpsdc84223d_59
+    21300120: Hospital_zpsdc84223d_60
+    21300122: Hospital_zpsdc84223d_61
+    21300124: Hospital_zpsdc84223d_62
+    21300126: Hospital_zpsdc84223d_63
+    21300128: Hospital_zpsdc84223d_64
+    21300130: Hospital_zpsdc84223d_65
+    21300132: Hospital_zpsdc84223d_66
+    21300134: Hospital_zpsdc84223d_67
+    21300136: Hospital_zpsdc84223d_68
+    21300138: Hospital_zpsdc84223d_69
+    21300140: Hospital_zpsdc84223d_70
+    21300142: Hospital_zpsdc84223d_71
+    21300144: Hospital_zpsdc84223d_72
+    21300146: Hospital_zpsdc84223d_73
+    21300148: Hospital_zpsdc84223d_74
+    21300150: Hospital_zpsdc84223d_75
+    21300152: Hospital_zpsdc84223d_76
+    21300154: Hospital_zpsdc84223d_77
+    21300156: Hospital_zpsdc84223d_78
+    21300158: Hospital_zpsdc84223d_79
+    21300160: Hospital_zpsdc84223d_80
+    21300162: Hospital_zpsdc84223d_81
+    21300164: Hospital_zpsdc84223d_82
+    21300166: Hospital_zpsdc84223d_83
+    21300168: Hospital_zpsdc84223d_84
+    21300170: Hospital_zpsdc84223d_85
+    21300172: Hospital_zpsdc84223d_86
+    21300174: Hospital_zpsdc84223d_87
+    21300176: Hospital_zpsdc84223d_88
+    21300178: Hospital_zpsdc84223d_89
+    21300180: Hospital_zpsdc84223d_90
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hospital_zpsdc84223d_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 450
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 448
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 450
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 450
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 450
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 450
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 481
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 488
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 483
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 483
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 449
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 454
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_12
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 458
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 462
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 453
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_15
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 452
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 423
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 390
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 384
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_19
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 419
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 421
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 422
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 421
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 428
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 387
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 362
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 320
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 325
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 300
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 300
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 303
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 303
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_33
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 325
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 193
+        width: 129
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 313
+        width: 55
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_36
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 301
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 228
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 226
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_39
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 238
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_40
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 258
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_41
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 179
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 200
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_43
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 233
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 64
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 164
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_47
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 164
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 180
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_49
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 179
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_50
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 181
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 128
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_53
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 128
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_55
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 135
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_56
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_57
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 70
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 72
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 72
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_60
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 72
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_61
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 105
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_62
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_63
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 107
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_64
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 98
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 103
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_66
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_67
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 12
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 12
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_69
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 66
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_70
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 71
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_72
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 14
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_73
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 14
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_74
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_75
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_77
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_78
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 34
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_79
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 16
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_80
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 16
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_82
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 351
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 351
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_84
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 352
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 322
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 385
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 394
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 458
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hospital_zpsdc84223d_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 447
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

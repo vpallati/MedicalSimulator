@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 3292e04a059b6b348897d8ff473ccbe0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: healthBarSpritesheet_0
+    21300002: healthBarSpritesheet_1
+    21300004: healthBarSpritesheet_2
+    21300006: healthBarSpritesheet_3
+    21300008: healthBarSpritesheet_4
+    21300010: healthBarSpritesheet_5
+    21300012: healthBarSpritesheet_6
+    21300014: healthBarSpritesheet_7
+    21300016: healthBarSpritesheet_8
+    21300018: healthBarSpritesheet_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: healthBarSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 388
+        width: 288
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: healthBarSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 347
+        width: 288
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: healthBarSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 305
+        width: 288
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: healthBarSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 261
+        width: 288
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: healthBarSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 220
+        width: 288
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: healthBarSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 177
+        width: 288
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: healthBarSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 135
+        width: 288
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: healthBarSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 92
+        width: 288
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: healthBarSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 52
+        width: 288
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: healthBarSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 288
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
